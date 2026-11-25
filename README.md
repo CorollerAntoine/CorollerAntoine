@@ -9,10 +9,10 @@ Open to opportunities in Europe.
 
 Technologies I work with:
 
--**Languages & databases** — SQL (PostgreSQL), Python (pandas)
--**Visualisation** — Power BI (DAX, Power Query), Plotly
--**Modeling** — star schema, OLTP/OLAP, ETL
--**Tools** — Git, DBeaver, VS Code
+- **Languages & databases** — SQL (PostgreSQL), Python (pandas)
+- **Visualisation** — Power BI (DAX, Power Query), Plotly
+- **Modeling** — star schema, OLTP/OLAP, ETL
+- **Tools** — Git, DBeaver, VS Code
 
 ## Projects
 
